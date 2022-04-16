@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StuLo</string>
+    <string name="logo" />
+    <string name="employer">Arbeitgeber</string>
+    <string name="hours">Arbeitsstunden</string>
+    <string name="salary">Stundenlohn</string>
+    <string name="calendar">Datum</string>
+    <string name="create">Erstellen</string>
+    <string name="events">Events</string>
+    <string name="result">Gewinn</string>
+    <string name="date">Datum</string>
+    <string name="delete">Löschen</string>
+    <string name="image_for_delete">Löschen Knopf</string>
+</resources>
